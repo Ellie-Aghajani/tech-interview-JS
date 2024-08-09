@@ -7,5 +7,10 @@
 let a = 'red';
 let b = 'blue';
 
+let c = a;
+a = b; //override a with b
+b = c; //original value of 'a'
+
+
 console.log(a); 
 console.log(b);
