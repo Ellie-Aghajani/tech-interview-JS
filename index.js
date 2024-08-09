@@ -1,4 +1,4 @@
-//swap variables
+//swap variables 1-3-12
 //1: declare another variable and use it as a backup
 //2: put whatever we 're storing in 'a' in the backup variable
 //3: copy 'b' to 'a'
